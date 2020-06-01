@@ -22,7 +22,9 @@ convert \
 
 convert \
     "ASTER_AST_L1T_003/ASTER_AST_L1T_003 Spectrogram VNIR and SWIR Bands FULL.jpg" \
+    "ASTER_AST_L1T_003/ASTER_AST_L1T_003 VNIR and SWIR Bands.jpg" \
     "LANDSAT_LC08_C01_T1_SR/LANDSAT_LC08_C01_T1_SR Spectrogram VNIR and SWIR Bands FULL.jpg" \
+    "LANDSAT_LC08_C01_T1_SR/LANDSAT_LC08_C01_T1_SR VNIR and SWIR Bands.jpg" \
     -gravity center -append \
     Spectrograms_FULL.jpg
 
