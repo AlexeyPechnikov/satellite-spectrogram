@@ -32,7 +32,7 @@ Map.addLayer(composite, {bands: ['B3N', 'B02', 'B01'], min: 0.0, max: 1.0}, 'RGB
 // WGS84
 Export.image.toDrive({
   image: composite,
-  description: 'ASTER_AST_L1T_003_WEST_SULAWESI_2000_2020',
+  description: 'ASTER_AST_L1T_003_2000_2020',
   region: polygon,
   crs: 'EPSG:4326',
   scale: 30,

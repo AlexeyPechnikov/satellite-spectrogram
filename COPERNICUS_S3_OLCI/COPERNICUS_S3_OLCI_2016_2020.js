@@ -40,7 +40,7 @@ var databands = composite.bandNames().filter(ee.Filter.eq('item','quality_flags'
 // WGS84
 Export.image.toDrive({
   image: composite.select(databands),
-  description: 'COPERNICUS_S3_OLCI_WEST_SULAWESI_2016_2020',
+  description: 'COPERNICUS_S3_OLCI_2016_2020',
   region: polygon,
   crs: 'EPSG:4326',
   scale: 30,

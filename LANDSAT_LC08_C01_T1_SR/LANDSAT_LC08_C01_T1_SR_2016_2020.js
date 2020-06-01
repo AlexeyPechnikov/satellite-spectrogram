@@ -56,7 +56,7 @@ var databands = composite.bandNames().filter(ee.Filter.stringStartsWith('item','
 // WGS84
 Export.image.toDrive({
   image: composite.select(databands),
-  description: 'LANDSAT_LC08_C01_T1_SR_WEST_SULAWESI_2016_2020',
+  description: 'LANDSAT_LC08_C01_T1_SR_2016_2020',
   region: polygon,
   crs: 'EPSG:4326',
   scale: 30,

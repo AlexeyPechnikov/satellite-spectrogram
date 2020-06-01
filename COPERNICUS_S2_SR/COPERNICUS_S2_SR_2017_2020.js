@@ -50,7 +50,7 @@ var databands = composite.bandNames().filter(ee.Filter.stringStartsWith('item','
 // WGS84
 Export.image.toDrive({
   image: composite.select(databands),
-  description: 'COPERNICUS_S2_SR_WEST_SULAWESI_2017_2020',
+  description: 'COPERNICUS_S2_SR_2017_2020',
   region: polygon,
   crs: 'EPSG:4326',
   scale: 30,
