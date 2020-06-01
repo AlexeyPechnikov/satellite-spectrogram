@@ -25,3 +25,11 @@ convert \
     "LANDSAT_LC08_C01_T1_SR/LANDSAT_LC08_C01_T1_SR Spectrogram VNIR and SWIR Bands FULL.jpg" \
     -append -gravity center \
     WEST_SULAWESI_Spectrograms_FULL.jpg
+
+convert \
+    "ASI_PRISMA/ASI PRISMA Spectrogram VNIR and SWIR Bands.jpg" \
+    "ASI_PRISMA/ASI PRISMA VNIR and SWIR Bands.jpg" \
+    "EO1_HYPERION/EO-1 HYPERION Spectrogram VNIR and SWIR Bands.jpg" \
+    "EO1_HYPERION/EO-1 HYPERION VNIR and SWIR Bands.jpg" \
+    -append -gravity center \
+    WEST_SULAWESI_ASI_PRISMA_EO1_HYPERION.jpg
