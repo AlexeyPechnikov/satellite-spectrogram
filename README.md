@@ -1,4 +1,4 @@
-## Compare Spectral Bands of Hyperspectral and Multispectral Satellite Missions: ASI PRISMA, EO-1 HYPERION, Sentinel-3 OLCI EFR, Sentinel-2 MSI, ASTER L1T, USGS Landsat 8 Surface Reflectance Tier 1
+## Compare Spectral Bands of Hyperspectral and Multispectral Satellite Missions: ASI PRISMA, EO-1 HYPERION, Sentinel-3 OLCI EFR, Sentinel-2 MSI, ASTER L1T, USGS Landsat 8 SR
 
 ### Compare hyperspectral and multispectral products on West Sulawesy, Indonesia
 
