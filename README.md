@@ -16,4 +16,4 @@
 
 * Download PRS_L2C_STD_20200413023942_20200413023947_0001.zip from [PRISMA Mission Selection](http://prisma.asi.it/missionselect/)
 * Download EO1H1150662006130110PY_1T.ZIP from [USGS EROS Archive - Earth Observing One (EO-1) - Hyperion](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-earth-observing-one-eo-1-hyperion?qt-science_center_objects=4#qt-science_center_objects)
-* Use provided Google Earth Engine scripts (GEE_\*.js) to produce all other datasets as multi-band GeoTiff files: [Google Earth Engine](https://code.earthengine.google.com/)
+* Use provided Google Earth Engine scripts (\*.js) to produce all other datasets as multi-band GeoTiff files: [Google Earth Engine](https://code.earthengine.google.com/)
